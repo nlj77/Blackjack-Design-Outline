@@ -15,3 +15,9 @@ This is a assignment for SMT's dev training. The goal of the assignment is to le
 <ul>Pot</ul>
 <ul>Ruleset</ul>
 <ul>Table</ul>
+<br>
+![image](https://user-images.githubusercontent.com/66858271/222778582-310e115a-e203-4a35-bde7-4dc02cd98077.png)
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/66858271/222778901-8d32bebd-ef81-4c23-9d09-fdba3624351b.png)
+
