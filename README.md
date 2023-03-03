@@ -16,9 +16,9 @@ This is a assignment for SMT's dev training. The goal of the assignment is to le
 <ul>Ruleset</ul>
 <ul>Table</ul>
 <br>
-<img src="(https://user-images.githubusercontent.com/66858271/222778582-310e115a-e203-4a35-bde7-4dc02cd98077.png" alt="Alt text" title="Nouns and Verbs">
+<img src="(https://user-images.githubusercontent.com/66858271/222778582-310e115a-e203-4a35-bde7-4dc02cd98077.png" title="Nouns and Verbs">
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/66858271/222778582-310e115a-e203-4a35-bde7-4dc02cd98077.png" alt="Alt text" title="Game Flow">
+<img src="https://user-images.githubusercontent.com/66858271/222778582-310e115a-e203-4a35-bde7-4dc02cd98077.png" title="Game Flow">
 
 
