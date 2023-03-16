@@ -24,6 +24,6 @@ I felt the game should go as such: User agrees to start a game and enters as pla
 <h3> Revised Game Flow <h3>
 <h4> Notes on Revisions </h4>
   <p> A big part of my focus was keeping each step in the game flow as a single point or step, whereas my original had multiple points executed on each step. The other thing I attempted to do was remove any specific win conditions, loss conditions, or other specific value controlled conditions, in an effort to keep my game modular, and encourage the ability to use multiple rule sets with different win and loss conditions.</p>
-<img src ="https://user-images.githubusercontent.com/66858271/225693178-59a00d37-fe2c-4204-aa5c-0f041ab3dfbc.png" title="Revised Game Flow">
-  
+<img src ="https://user-images.githubusercontent.com/66858271/225693567-904e0e69-f786-426d-8562-49df5d670d51.png" title="Revised Game Flow">
+
 
