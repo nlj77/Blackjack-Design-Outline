@@ -22,6 +22,8 @@ I felt the game should go as such: User agrees to start a game and enters as pla
 <p> Naming schemes is something I want to work on. A Bet is a noun, and a verb in my design. A player can make a bet, but that bet is a object on the board state that directly affects the sum of the pot. The nomenclature of the game itself might be influencing the naming of my variables too much. </p>
 
 <h3> Revised Game Flow <h3>
+<h4> Notes on Revisions <h4>
+  <p> A big part of my focus was keeping each step in the game flow as a single point or step, whereas my original had multiple points executed on each step. The other thing I attempted to do was remove any specific win conditions, loss conditions, or other specific value controlled conditions, in an effort to keep my game modular, and encourage the ability to use multiple rule sets with different win and loss conditions.</p>
 <img src ="https://user-images.githubusercontent.com/66858271/225666927-83627ee6-16e0-4dc2-b4cb-264f1e19e28d.png" title="Revised Game Flow">
 
 
