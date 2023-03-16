@@ -15,9 +15,13 @@ This is a assignment for SMT's dev training. The goal of the assignment is to le
 <h3> Considerations on Game Flow </h3>
 I felt the game should go as such: User agrees to start a game and enters as player, dealer deals a card to the player, then itself, then the player, then itself. At this point, both hands are evaluated. If the dealer has an initial hand of 21, and the player does not, then the pot is instantly lost, and the player loses the hand. If the player has an initial hand of 21, the dealer must hit till their hand sums to at least 16. The dealer must stay on a hand that amounts to 17, and if that's the case and the player has a higher total, the player wins. This game flow chart only details a single player, dealer versus one user, game. I did include in my nouns an idea for a table to host multiple players, but this chart would need to account for dealing each player a card. 
 <br>
-<h3> Concessions </h3>
+<h3> Concessions on First Draft </h3>
 
 <p>The pot system and currency is something I didn't spend a lot of time on. Maybe I build a broad casino game where a user is a player, but when playing a Blackjack game, they become a Blackjack player. Then, when the user has quit that game, the player is returned to a player object, but retains winnings and loses from the Blackjack game.</p>
 <p> Multiplayer considerations could have had a little more time spent on them. How a player interacts at a table with other players, against the dealer is a key part of real life Blackjack, and in an interest of simulating a real Blackjack game, that's pretty significant.</p>
 <p> Naming schemes is something I want to work on. A Bet is a noun, and a verb in my design. A player can make a bet, but that bet is a object on the board state that directly affects the sum of the pot. The nomenclature of the game itself might be influencing the naming of my variables too much. </p>
+
+<h3> Revised Game Flow <h3>
+<img src ="https://user-images.githubusercontent.com/66858271/225666927-83627ee6-16e0-4dc2-b4cb-264f1e19e28d.png" title="Revised Game Flow">
+
 
